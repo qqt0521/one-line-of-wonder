@@ -8,10 +8,7 @@ u-pangg7-one-line-of-wonder-ee10fcd8.
 
 import os
 
-ENTRY = (
-    "Tonight, light from a star that died before the first human opened "
-    "an eye is landing on a sleeping child's eyelid."
-)
+ENTRY = "The last star you'll ever see has already been born."
 
 
 def main() -> None:
